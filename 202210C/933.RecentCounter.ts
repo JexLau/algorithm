@@ -1,3 +1,4 @@
+/** 最近的请求次数 */
 class RecentCounter {
   queue: number[]
   constructor() {
